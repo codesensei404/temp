@@ -1,4 +1,4 @@
-lol_2 = 2
+lol_2 = 1
 
 print(f"This is the {lol_2}nd commit!")
 
